@@ -1,11 +1,10 @@
-profile: ${env:AWS_PROFILE}
 service: alan-module-3-13-assignment
 frameworkVersion: '3'
 
 provider:
   name: aws
   runtime: nodejs18.x
-  region: ap-southeast-1
+  region: ap-southeast-1\n
 
 functions:
   api:
