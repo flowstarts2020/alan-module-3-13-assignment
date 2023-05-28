@@ -1,3 +1,4 @@
+profile: ${env:AWS_PROFILE}
 service: alan-module-3-13-assignment
 frameworkVersion: '3'
 
